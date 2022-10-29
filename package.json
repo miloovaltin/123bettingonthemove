@@ -1,16 +1,16 @@
 {
-"name": "123bettingonthemove",
-"theme": "123betting on the move",
-"version": "5.9.4",
-"description": "123betting on the move สมัครเว็บไซต์พนันเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
-"keywords": [
-"123betting on the move",
-"123betting on the move เครดิตฟรี",
-"123betting on the move ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/123bettingonthemove",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "123bettingonthemove",
+  "theme": "123betting on the move",
+  "version": "5.10.0",
+  "description": "123betting on the move สมัครเว็บไซต์พนันเว็บตรง คนเล่นเยอะ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "123betting on the move",
+    "123betting on the move เครดิตฟรี",
+    "123betting on the move ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/123bettingonthemove",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
